@@ -31,7 +31,7 @@ This empowering eBook walks you through **12 powerful mindset shifts** that will
 
 ## 🔗 Live Demo
 
-Visit the landing page: [https://your-netlify-site.netlify.app](#)  
+Visit the landing page:[https://mindsetshift.netlify.app/] #
 Replace this link with your actual Netlify or GitHub Pages URL.
 
 ---
