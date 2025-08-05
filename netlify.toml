@@ -1,0 +1,4 @@
+[[headers]]
+  for = "*.epub"
+  [headers.values]
+    Content-Type = "application/epub+zip"
