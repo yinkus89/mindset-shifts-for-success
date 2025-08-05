@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="urn:uuid:7eb56833-1fc1-415d-9eec-390428b57501" name="dtb:uid"/>
+<meta content="-1" name="dtb:totalPageCount"/>
+<meta content="-1" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Generated</text>
+</docTitle>
+<docAuthor>
+<text>Aspose</text>
+</docAuthor>
+<navMap>
+<navPoint playOrder="1" id="nav1">
+<navLabel>
+<text>Page</text>
+</navLabel>
+<content src="out.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>
