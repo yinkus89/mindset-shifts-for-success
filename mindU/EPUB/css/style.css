@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 1.5em;
+  color: #000;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 0.8em;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: 0.8em;
+}
+
+/* Remove problematic transforms and extreme line-height */
+.stl_view {
+  font-size: 1em;
+  transform: none !important;
+}
+
+.stl_01,
+.stl_02,
+.stl_03,
+.stl_04,
+.stl_05,
+.stl_06,
+.stl_07,
+.stl_08,
+.stl_09,
+.stl_10,
+.stl_11 {
+  position: static !important;
+  white-space: normal;
+  font-size: 1em;
+  line-height: 1.5em;
+  letter-spacing: normal;
+}
+
+@font-face {
+  font-family: "Arial Bold Custom";
+  src: url('../fonts/fc8b0741-0001-0000-0000-000000000000.woff');
+}
+
+@font-face {
+  font-family: "Arial Regular Custom";
+  src: url('../fonts/fda77900-0000-0000-0000-000000000000.woff');
+}
+
+.stl_05 {
+  font-family: "Arial Bold Custom", sans-serif;
+}
+
+.stl_09 {
+  font-family: "Arial Regular Custom", sans-serif;
+}
+.stl_05 {
+  font-family: "Arial Bold Custom", sans-serif;
+  font-size: 1.166667em;
+  color: #000000;
+  border-bottom: 2px solid #2b6cb0; /* Underline style */
+  padding-bottom: 0.2em;
+  margin-bottom: 0.8em;
+  display: inline-block;
+}
